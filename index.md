@@ -211,14 +211,15 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 <h2 id="materials" name="materials">Training Materials and Schedule</h2>
 
+<!--
 <p>
   Please see <a href="{{ site.training_site }}">this site</a> for course material and tentative schedule.
 </p>
-
+-->
 
 <hr/>
 
-<!--
+<!-- -->
 
 <div class="row">
   <div class="col-md-6">
@@ -258,7 +259,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   </div>
 </div>
 
--->
+<!-- -->
 
 <!--
   ETHERPAD
