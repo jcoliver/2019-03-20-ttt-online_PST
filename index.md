@@ -249,12 +249,14 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
       <tr> <td>11:05</td> <td>Morning Coffee </td> </tr>
       <tr> <td>11:20</td> <td>Building Teaching Skill: Performance Revised </td> </tr>
       <tr> <td>12:00</td> <td>Lunch </td> </tr>
-      <tr> <td>13:00</td> <td>The Carpentries: Workshop Introductions </td> </tr>
-      <tr> <td>14:10</td> <td>The Carpentries: How We Operate </td> </tr>
-      <tr> <td>15:15</td> <td>Afternoon Coffee </td> </tr>
-      <tr> <td>15:30</td> <td>The Carpentries: Teaching Practices </td> </tr>
-      <tr> <td>16:00</td> <td>Afternoon Wrap-Up </td> </tr>
-      <tr> <td>16:45</td> <td>Finish </td> </tr>
+      <tr> <td>13:00</td> <td>Checkout Process </td> </tr>
+      <tr> <td>14:15</td> <td>The Carpentries: How We Operate </td> </tr>
+      <tr> <td>15:30</td> <td>Afternoon Coffee </td> </tr>
+      <tr> <td>15:45</td> <td>Workshop Introductions </td> </tr>
+      <tr> <td>16:25</td> <td>Putting it Together </td> </tr>
+      <tr> <td>16:45</td> <td>Afternoon Wrap-Up </td> </tr>
+      <tr> <td>16:55</td> <td>Post-workshop Survey </td> </tr>
+      <tr> <td>17:00</td> <td>Finish </td> </tr>
     </table>
   </div>
 </div>
